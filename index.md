@@ -36,17 +36,16 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 ## Course Schedule
 
-
-|                           Name                            |                               Topics                                |Post Date|                   Due Date                   |
-|-----------------------------------------------------------|---------------------------------------------------------------------|---------|----------------------------------------------|
-|[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History of GIS, Coordinate Reference Systems <br> Intro to ArcGIS Pro|TBD      |TBD                                           |
-|[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                     |TBD      |TBD                                           |
-|[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Data Classification & Visualization                                  |TBD      |TBD                                           |
-|[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)|Spatial Analysis & GIS Workflows <br> Final Project Overview         |TBD      |TBD                                           |
-|[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |TBD      |TBD                                           |
-|[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)|GIS Applications & Research, Ethics,<br> Exam Review                 |TBD      |TBD                                           |
-|[Final Project](docs/Final_Project.md)                     |Proposal & Report                                                    |TBD      |TBD                                           |
-|[Final Exam](docs/Overview.md/##final-exam)                |Asynchronous on Canvas                                               |TBD      |TBD                                           |
+|                                                        |Due Date|
+|--------------------------------------------------------|--------|
+|[Module 1](https://geos270.github.io/Module1/)          |23 Sep  |
+|[Module 2](https://geos270.github.io/Module2/)          |07 Oct  |
+|[Module 3](https://geos270.github.io/Module3/)          |21 Oct  |
+|[Module 4](https://geos270.github.io/Module4/)          |04 Nov  |
+|[Module 5](https://geos270.github.io/Module5/)          |18 Nov  |
+|[Module 6](https://geos270.github.io/Module6/)          |02 Dec  |
+|[Final Project](https://geos270.github.io/FinalProject/)|09 Dec  |
+|[Final Exam](docs/Overview.md/##final-exam)             |16 Dec  |
 
 ---
 

@@ -1,0 +1,1 @@
+# The GEOS 270 course syllabus can be viewed here: https://geos270.github.io/Syllabus/
