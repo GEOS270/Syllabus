@@ -46,6 +46,7 @@ This course will expose you to key concepts and tools used to collect, map, and 
 |[Module 6](https://geos270.github.io/Module6/)          |GIS Applications & Research, Ethics,<br> Exam Review                 |02 Dec  |
 |[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                                    |09 Dec  |
 |[Final Exam](docs/Overview.md/##final-exam)             |Asynchronous on Canvas                                               |16 Dec  |
+
 ---
 
 ## Lecture
