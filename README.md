@@ -1,1 +1,1 @@
-# Follow [this link](https://geos270.github.io/Syllabus/) to see the GEOS 270 course syllabus.
+# The GEOS 270 course syllabus can be viewed here: https://geos270.github.io/Syllabus/
