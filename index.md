@@ -51,7 +51,7 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 ## Lecture
 
-Lectures are held Tuesday/Thrusday 12:30-14:00 in room 22 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)
+Lectures are held Tuesday/Thrusday 12:30-14:00 in room 200 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)
 
 ---
 
@@ -95,13 +95,8 @@ I use GIS extensively is my research on climate change in the wetland ecosystems
 | Pronouns | She/Her/Hers |
 | Email | kua12@student.ubc.ca |
 | Office | Room 105, Geography Bldg. |
-| Office Hours| Mondays at 11 am, or by appointment. Please email if you prefer to meet on Zoom! |
 
 
 My name is Andrea and I am a MSc student in Geography, studying fire and climate relationships in continental Southeast Asia. My research background has primarily integrated ecological concepts with GIS and remote sensing techniques. In my free time, I enjoy traveling, eating, and hiking with my dog, Lilo.
 
 <img src="docs/images/Andrea.jpg" alt="hi" class="inline" width="300"/>
-
- 192hrs, Landen Matechuk, landenmatechuk@gmail.com
-
-128hrs, Sierra Collins, sierragrace21@gmail.com
