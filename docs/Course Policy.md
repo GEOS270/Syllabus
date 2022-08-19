@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Course Policies
-# parent: Syllabus
-nav_order: 4
+parent: Course Syllabus
+nav_order: 2
 ---
 
 # Course Policies
 {: .no_toc }
 
-My aim for this semester is to provide a flexible and supportive learning environment while respecting the boundaries of myself and your TA.  These course policies are intended to establish a framework for navigating the course.
+My aim for this semester is to provide a flexible and supportive learning environment while respecting the boundaries of myself and your TAs.  These course policies are intended to establish a framework for navigating the course.
 
 <details open markdown="block">
   <summary>
@@ -20,27 +20,32 @@ My aim for this semester is to provide a flexible and supportive learning enviro
 </details>
 ---
 
-# Marking & Feedback
+# Feedback & Deadlines
 
-Written answers and file submissions will be marked by your TA using a rubric.  Assignments submitted by the due date will be graded and returned seven days after the due date.  Short comments will be provided where applicable on written/file submissions and answer keys will be posted for the quizzes.  If you want further feedback on you lab assignment ask your TA in lab or by email.
+Lab submissions will be marked by your TA using a standard rubric.  Short comments will be provided where applicable on written answers & map submissions.  Lab submissions will be accepted without late penalty for seven days after their due date.
 
-## Late Penalties
-{: .no_toc }
-
-Assessment submissions will be accepted without late penalty for seven days.  Late assignments **waive their right** to prompt grading/feedback.  Late assignments will be marked whenever is convenient for your TA (could be as late as the end of term).  After the seven day grace period, **submissions will no longer be accepted**.
+* Labs submitted **by the due date** will be graded and returned within seven days after the due date.
+  * If you want further feedback ask your TA in lab or by email.
+* Labs submitted **after the due date** waive their right to prompt grading/feedback.  
+  * Late assignments will not recieve written feedback and will be marked whenever is convenient for your TA.
+    * This could be as late as the end of term.
+* After the seven day grace period, **submissions will no longer be accepted**.
+  * **Do not** request an extension from your TA.
 
 #  Accommodations
 
-My aim is to be flexible and accommodating.  I can make accommodations for you on a case by case basis, but it is your responsibility to communicate your needs in a timely fashion (i.e. email before an assignment is due)
+I will make accommodations on a case by case basis for extenuating circumstances that prevent you completing course work.  If you experience extenuating circumstances that require an accomodation please contact June by email ([june.skeeter@ubc.ca](june.skeeter@ubc.ca)).  It is your responsibility to communicate your needs in a timely fashion (i.e. **before** a due date).
 
-Please contact the [Center for Accessibility](https://students.ubc.ca/about-student-services/centre-for-accessibility) if you require accommodations for a disability.  If you are registered please make me aware of any necessary accommodations by email in a timely manner.
+* My typical approach is to give an alternative assignment or adjusting the weight of grades rather than giving extensions.
+
+Please contact the [Center for Accessibility](https://students.ubc.ca/about-student-services/centre-for-accessibility) if you require accommodations for a disability.  Once you are registered please make me aware of any necessary accommodations by email in a timely manner.
 
 ## Absences
 {: .no_toc }
 
-If you are sick (with COVID or otherwise), please stay home to protect others and take care of yourself.  Lectures will be available online and you may attend lab via zoom.
+If you are sick (with COVID or otherwise), please stay home to protect others and take care of yourself.  Lectures are streamed on zoom so that you may attend online.  If you have to miss a lab session, you can attend an alternate session, just make sure to contact the TA running that session beforehand.
 
-## Concessions
+## Academic Concessions
 {: .no_toc }
 
 If you require an [Academic Concession](https://www.arts.ubc.ca/degree-planning/academic-performance/academic-concession/) please email me promptly so that we can work together to figure out an accommodation for your situation.  You are not obligated to explain your personal circumstances to me to justify the concession, my inent is to be accomodating.  However, you must to communicate any need for a concession in a timely manner.  If you require multiple concessions I may refer you to [Arts Advising](https://www.arts.ubc.ca/student-support/academic-support/academic-advising/).

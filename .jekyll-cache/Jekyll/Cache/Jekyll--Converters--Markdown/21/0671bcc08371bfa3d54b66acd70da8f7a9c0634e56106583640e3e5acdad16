@@ -1,0 +1,63 @@
+I"$<h1 class="no_toc" id="software-and-computer-access">Software and Computer Access</h1>
+
+<p>To complete your lab assignments, you will be using ESRI’s ArcGIS Pro.  This is a proprietary program (costs money) that can be run on the Windows opperating system.  You have two options for accessing the software:</p>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#option-1-geography-lab-computers" id="markdown-toc-option-1-geography-lab-computers">Option 1: Geography Lab Computers</a></li>
+  <li><a href="#option-2-purchase-a-student-license" id="markdown-toc-option-2-purchase-a-student-license">Option 2: Purchase a Student License</a></li>
+  <li><a href="#option-3-ubc-library-gis-last-resort" id="markdown-toc-option-3-ubc-library-gis-last-resort">Option 3: UBC Library GIS (Last Resort)</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h2 id="option-1-geography-lab-computers">Option 1: Geography Lab Computers</h2>
+
+<p>All students will be given a UBC Geography logon, you should recieve logon credentials by email before the first day of lab.
+The Geography Department has two computer labs (rooms 115 and 237).  Room 115 may be accessed in-person when the geography building is open; room 239 will be closed to in person access this summer due to construction.  Both 115 and 239 can be accessed remotely (via remote desktop connection) 24 hours a day, 7 days a week.  To remotely access lab computers, follow <a href="RemoteDesktop.pdf">these instructions</a>.  Information about the Geography Computer Labs can be found <a href="https://geog.ubc.ca/undergraduate/study-resources/">here</a>.  <strong>Note</strong> the lab schedule and <strong>refrain from remotely accessing a computer while other courses are holding lab session in that room</strong>.</p>
+
+<ul>
+  <li>
+    <p>If you have not received logon credentials, contact Jose Aparicio at: labhelp@geog.ubc.ca</p>
+  </li>
+  <li>
+    <p>If your personal coputer is running Mac or Linux, it is <strong>Strongly Recomened</strong> you use this method to access ArcGIS Pro.</p>
+  </li>
+  <li>
+    <p>There is a lab fee to use geography computers: you must <a href="http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/">pay the lab fee</a> by May 31st or you will loose access to your account.</p>
+  </li>
+  <li>
+    <p><strong>If you are having trouble logging on remotely</strong> try: adding “geoglab" in front of your username.</p>
+  </li>
+</ul>
+
+<p><img src="images/remoteLoginScreen.png" alt="hi" class="inline" width="300" /></p>
+
+<h2 id="option-2-purchase-a-student-license">Option 2: Purchase a Student License</h2>
+
+<p>You may purchase a student version of the software to install on your own computer for $30. ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine.</p>
+
+<ul>
+  <li>If you have a Mac or Linux computer, you can <a href="https://support.apple.com/en-ca/HT201468">follow these instructions</a> to setup a partition.
+    <ul>
+      <li><strong>We cannot</strong> provide any support for this step of the installation and it will probably just be easier for you to use Option 1 instead.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong class="label label-red">1</strong> Check that your computer meets the system requirements for ArcPro using <a href="http://www.systemrequirementslab.com/Client/Standard/?apikey=50F41142-39B0-4061-97C2-BA7B7FE43D0E&amp;refid=1186&amp;item=12433">this link</a>.</p>
+
+<p><strong class="label label-red">2</strong> Go <a href="https://gis.ubc.ca/software/">here</a> to purchase, ArcGIS Pro.  Fill out the info, make your pamment, and you should be given and ArcOnline Account and a link to download ArcGIS Pro.</p>
+<ul>
+  <li>If you run into any issues, contact Jose Aparicio at: labhelp@geog.ubc.ca</li>
+</ul>
+
+<h2 id="option-3-ubc-library-gis-last-resort">Option 3: UBC Library GIS (Last Resort)</h2>
+
+<p>This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the Koerner Library GIS Computers in person in room 217 or the computers in <a href="https://remotelabs.ubc.ca/">room 218 remotely</a>.  These computers are not guranteed to be running most up to date version of ArcGIS Pro.</p>
+:ET

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Course Syllabus
-# has_children: True
+has_children: True
 nav_order: 1
 
 ---
 
-# Geographic Information Science
+# GEOS 270: Geographic Information Science
 {: .no_toc }
 
 <details open markdown="block">
@@ -20,9 +20,9 @@ nav_order: 1
 
 ---
 
-## Learning Outcomes
+# Learning Outcomes
 
-This course will expose you to key concepts and tools used to collect, map, and interpret geographic data.  We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using geospatial data to solve problems in both the natural and human realms.  This term we will cover:
+This course will introduce you to key concepts and tools used to collect, map, and interpret geographic data.  We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using geospatial data to solve problems in both the natural and human realms.  This term we will cover:
 
 * How GIS functions and how it can be applied to solve problems.
 * How phenomena are represented as geospatial data in a GIS.
@@ -34,7 +34,9 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 ---
 
-## Course Schedule
+# Course Schedule
+
+This course is arranged in a modular format.
 
 |                         Module                         |                                Topic                                |Due Date|
 |--------------------------------------------------------|---------------------------------------------------------------------|--------|
@@ -45,33 +47,13 @@ This course will expose you to key concepts and tools used to collect, map, and 
 |[Module 5](https://geos270.github.io/Module5/)          |Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |18 Nov  |
 |[Module 6](https://geos270.github.io/Module6/)          |GIS Applications & Research, Ethics,<br> Exam Review                 |02 Dec  |
 |[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                                    |09 Dec  |
-|[Final Exam](docs/Overview.md/##final-exam)             |Asynchronous on Canvas                                               |16 Dec  |
+|[Final Exam](docs/Overview.md/#final-exam)             |Asynchronous on Canvas                                               |16 Dec  |
 
 ---
 
-## Lecture
 
-Lectures are held Tuesday/Thrusday 12:30-14:00 in room 200 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)
+# Instructor: June Skeeter
 
----
-
-## Lab Sections
-
-
-You must be registered for one of the following lab sections, which will meet 2x week each throughout the term.  Lab attendance is strongly encouraged, but is not mandatory.  All labs will meet in person in the Geography computer lab (room 115).
-
-|Lab |   Time slot            |
-|----|------------------------|
-|L1A |Tuesday 16:00-18:00     |
-|L1B |Tuesday 10:00-12:00     |
-|L1C |Wednesday 12:00-14:00   |
-|L1D |Friday 14:00-16:00      |
-
----
-
-## Your Instructor
-
-| Name | June Skeeter |
 | Pronouns | They/Them/Theirs |
 | Email | june.skeeter@ubc.ca |
 | Office | Room 144, Geography Bldg. |
@@ -79,24 +61,34 @@ You must be registered for one of the following lab sections, which will meet 2x
 
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
-My name is June and I am a non-binary geographer, researcher, and educator.  I have been living as an uninvited guest on unceded Coast Salish Territory since 2015 and (will soon receive) a PhD in Geography from the University of British Columbia in 2022.
+My name is June and I am a non-binary geographer, researcher, and educator.  I have been living as an uninvited guest on unceded Coast Salish Territory since 2015 and will be receiving a PhD in Geography from the University of British Columbia in Fall 2022.
 
 I have been teaching GEOS 270 since 2020.  I am passionate about teaching Geographic Information Science and using Geographic Information Systems as a tool to address social and ecological justice issues.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
 
 I use GIS extensively is my research on climate change in the wetland ecosystems.  For my PhD, I studied greenhouse gas exchange remote [Arctic Ecosystems](https://cdnsciencepub.com/doi/full/10.1139/as-2021-0034).  Now I am working for the [UBC Micrometeorology Lab](https://blogs.ubc.ca/saraknox/) studying greenhouse gas exchange in local wetlands in Vancouver.  When I'm not working, I like to spend my free time hiking, gardening, foraging, and going to drag shows.  
 
 
-
 ---
 
-## Your TAs
+# Your TAs
 
-| Name | Andrea Ku |
+## Landen Matechuk 
+
+| Pronouns | He/Him/His |
+| Email | landenm@student.ubc.ca |
+| Office | Room TBD, Geography Bldg. |
+
+My name is Landen, and I am an MSc student in geography, studying channel response to the loss of riparian vegetation and beaver habitats in British Columbia. My research background has focused on applying GIS, and remote sensing technologies to various topics focused on watershed productivity and health. When I am not studying or working, I am most likely hiking, snowboarding, surfing, or reading.
+
+<img src="docs/images/Landen.jpg" alt="hi" class="inline" width="300"/>
+
+
+## Sierra Collins 
+
 | Pronouns | She/Her/Hers |
-| Email | kua12@student.ubc.ca |
-| Office | Room 105, Geography Bldg. |
+| Email | sierraco@mail.ubc.ca |
+| Office | Room 114, Geography Bldg. |
 
+My name is Sierra and I am a MSc student in Geography, studying the effects of snowmelt on stream temperatures in the southern Coast Mountains of BC. My background has mostly been focused on hydrology in the Pacific Northwest, but I also have spent some time working in biology and conservation. In my free time I enjoy hiking, kayaking, travelling, trying new food and reading!
 
-My name is Andrea and I am a MSc student in Geography, studying fire and climate relationships in continental Southeast Asia. My research background has primarily integrated ecological concepts with GIS and remote sensing techniques. In my free time, I enjoy traveling, eating, and hiking with my dog, Lilo.
-
-<img src="docs/images/Andrea.jpg" alt="hi" class="inline" width="300"/>
+<img src="docs/images/Sierra.jpg" alt="hi" class="inline" width="300"/>

@@ -1,12 +1,17 @@
 ---
 layout: default
 title: Course Overview
-# parent: Syllabus
-nav_order: 3
+parent: Course Syllabus
+nav_order: 1
 ---
 
 # Course Overview
 {: .no_toc}
+
+
+The course consists of six modules, a final project, and a final exam.  They are all hyperlinked in the [course schedule](https://geos270.github.io/Syllabus/#course-schedule).
+
+* **Note** Module content is already available for those who would like to look ahead, **but** specific content may change up to date each module is introduced in lecture.
 
 <details open markdown="block">
   <summary>
@@ -19,33 +24,48 @@ nav_order: 3
 
 ---
 
-## Evaluation
 
-The course is made up of six modules, a final project, and a comprehensive final exam.  The six modules will each be worth 10% of your final grade and the lowest scoring module will be dropped.  The final project and exam will both be worth 25% of your final grade.
+# Evaluation
+
+The six modules will each be worth 10% of your final grade.  At the end of term, your lowest scoring module will be dropped and replaced with the average score of your other 5 modules.  The final project and exam will both be worth 20% of your final grade.
 
 | Points Distribution | Percent of Points |
 |---------------------|-------------------|
-| Modules 1-6         | 50%               |
-| Final Project       | 25%               |
-| Final Exam          | 25%               |
+| Modules 1-6         | 60%               |
+| Final Project       | 20%               |
+| Final Exam          | 20%               |
 
 ---
 
-## Modules
+# Modules
 
-Each module is a lesson intended to introduce and cover specific topics within GIS, they will be published as individual webpages.  They will be hyperlinked in the schedule above as they are posted.  They will also be made accessible through Canvas and I will send a reminder email to the class each time a module is posted.  Each module will have consist of three sections.  
+Each module has a lecture and lab component.  The modules are designed to introduce and cover specific topics within GIS, and are published as separate webpages.  
 
-### Lecture Content
+
+## Lectures
+
+Lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.  Lectures are held each Tuesday/Thursday 12:30-14:00 in room 200 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09) and recordings will be made available on canvas the following day.
+
+
+## Labs
+
+Labs will build on the lecture content.  They will primarily focus on GIS applications, giving you a chance to get hands on practice working with GIS software.  Some labs will also have readings (there is no textbook, pdf files will be provided where applicable) or videos that have short essay questions associated with them.  You can work through the labs in your lab section but they may also require some extra time outside of scheduled lab hours.
+
+*See the [Software and Computer Access](/Labs.md) page for more details on specifics. 
+
+### Lab Sections
 {: .no_toc}
 
-Lecture content will consist of synchronous lectures, asynchronous video content, & course readings where applicable (there is no textbook, I'll provide .pdf files of any readings).  Lectures will be in person in GEOG 101, Tuesday/Thursday from 12:00 - 14:00.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68315782631?pwd=RFh0QmR1SzJ3cjhwYmlYSkZNbkcydz09) for those who cannot attend in person and recordings will be made available on canvas.
-* Synchronous lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.
+Labs will be formatted as open help sessions.  They are your chance to get one-on-one help from your TA and you may also use them to work collaboratively with your classmates (**all answers/maps submitted must be your own work**).  Lab attendance is not mandatory, but it is strongly encouraged.  You **must** be registered for one of the following lab sections, which will meet once per week throughout the term in the Geography computer lab (room 115).
 
+|Lab |   Time slot            |  TA  |
+|----|------------------------|------|
+|L1A |Tuesday 16:00-18:00     |[Landen](/#landen-matechuk)|
+|L1B |Tuesday 10:00-12:00     |[Landen](/#landen-matechuk)|
+|L1C |Wednesday 12:00-14:00   |[Sierra](/#sierra-collins)|
+|L1D |Friday 14:00-16:00      |[Sierra](/#sierra-collins)|
 
-### Lab Applications
-{: .no_toc}
-
-The labs will build on the lecture content and give you hands on practice working with GIS software.  You can work through these in your lab section.  See the [Lab Access](/Labs.md) page for more details on specifics. 
+---
 
 ### Assessment
 {: .no_toc}
