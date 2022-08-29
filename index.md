@@ -34,25 +34,8 @@ This course will introduce you to key concepts and tools used to collect, map, a
 
 ---
 
-# Course Schedule
 
-This course is arranged in a modular format.
-
-|                         Module                         |                                Topic                                |Due Date|
-|--------------------------------------------------------|---------------------------------------------------------------------|--------|
-|[Module 1](https://geos270.github.io/Module1/)          |History of GIS, Coordinate Reference Systems <br> Intro to ArcGIS Pro|23 Sep  |
-|[Module 2](https://geos270.github.io/Module2/)          |Data Types, Classification & Visualization                           |07 Oct  |
-|[Module 3](https://geos270.github.io/Module3/)          |Spatial Data Models                                                  |21 Oct  |
-|[Module 4](https://geos270.github.io/Module4/)          |Spatial Analysis & GIS Workflows <br> Final Project Overview         |04 Nov  |
-|[Module 5](https://geos270.github.io/Module5/)          |Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |18 Nov  |
-|[Module 6](https://geos270.github.io/Module6/)          |GIS Applications & Research, Ethics,<br> Exam Review                 |02 Dec  |
-|[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                                    |09 Dec  |
-|[Final Exam](docs/Overview.md/#final-exam)             |Asynchronous on Canvas                                               |16 Dec  |
-
----
-
-
-# Instructor: June Skeeter
+# Your Instructor: June Skeeter
 
 | Pronouns | They/Them/Theirs |
 | Email | june.skeeter@ubc.ca |
@@ -91,4 +74,4 @@ My name is Landen, and I am an MSc student in geography, studying channel respon
 
 My name is Sierra and I am a MSc student in Geography, studying the effects of snowmelt on stream temperatures in the southern Coast Mountains of BC. My background has mostly been focused on hydrology in the Pacific Northwest, but I also have spent some time working in biology and conservation. In my free time I enjoy hiking, kayaking, travelling, trying new food and reading!
 
-<img src="docs/images/Sierra.jpg" alt="hi" class="inline" width="300"/>
+<img src="docs/images/Sierra.JPG" alt="hi" class="inline" width="300"/>

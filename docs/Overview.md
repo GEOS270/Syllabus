@@ -8,10 +8,8 @@ nav_order: 1
 # Course Overview
 {: .no_toc}
 
+This section of the syllabus is meant show yuo waht you can expect from GEOS 270 this term.
 
-The course consists of six modules, a final project, and a final exam.  They are all hyperlinked in the [course schedule](https://geos270.github.io/Syllabus/#course-schedule).
-
-* **Note** Module content is already available for those who would like to look ahead, **but** specific content may change up to date each module is introduced in lecture.
 
 <details open markdown="block">
   <summary>
@@ -23,6 +21,26 @@ The course consists of six modules, a final project, and a final exam.  They are
 </details>
 
 ---
+
+# Course Schedule
+
+The course consists of six modules, a final project, and a final exam.  They are all hyperlinked in this schedule.
+
+* **Note** Module content is already available for those who would like to look ahead, **but** specific content may change up to date each module is introduced in lecture.
+
+|                         Module                         |                                Topic                                |Due Date|
+|--------------------------------------------------------|---------------------------------------------------------------------|--------|
+|[Module 1](https://geos270.github.io/Module1/)          |History of GIS, Coordinate Reference Systems <br> Intro to ArcGIS Pro|23 Sep  |
+|[Module 2](https://geos270.github.io/Module2/)          |Data Types, Classification & Visualization                           |07 Oct  |
+|[Module 3](https://geos270.github.io/Module3/)          |Spatial Data Models                                                  |21 Oct  |
+|[Module 4](https://geos270.github.io/Module4/)          |Spatial Analysis & GIS Workflows <br> Final Project Overview         |04 Nov  |
+|[Module 5](https://geos270.github.io/Module5/)          |Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |18 Nov  |
+|[Module 6](https://geos270.github.io/Module6/)          |GIS Applications & Research, Ethics,<br> Exam Review                 |02 Dec  |
+|[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                                    |09 Dec  |
+|[Final Exam](docs/Overview.md/#final-exam)              |Asynchronous on Canvas                                               |16 Dec  |
+
+---
+
 
 
 # Evaluation
