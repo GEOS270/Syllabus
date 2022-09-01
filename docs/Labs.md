@@ -56,7 +56,3 @@ You may purchase a student version of the software to install on your own comput
 **2**{: .label .label-red } Go [here](https://gis.ubc.ca/software/) to purchase, ArcGIS Pro.  Fill out the info, make your pamment, and you should be given and ArcOnline Account and a link to download ArcGIS Pro.
   * If you run into any issues, contact Jose Aparicio at: labhelp@geog.ubc.ca 
 
-
-## Option 3: UBC Library GIS (Last Resort)
-
-This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the Koerner Library GIS Computers in person in room 217 or the computers in [room 218 remotely](https://remotelabs.ubc.ca/).  These computers are not guranteed to be running most up to date version of ArcGIS Pro.
