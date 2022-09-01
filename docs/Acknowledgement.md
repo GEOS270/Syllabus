@@ -54,7 +54,7 @@ Recognizes that the lands were traditionally used and/or occupied.  The [xʷmə�
 
 Recognizes territories and cultures have been handed down from generation to generation.  One example is language, which has strong connections to ancestry.  The xʷməθkʷəy̓əm and əl̓ilwətaɁɬ speak dialects of [Hul’q’umi’num’ / Halq’eméylem / hən̓q̓əmin̓əm̓](https://native-land.ca/maps/languages/hulquminum-halqemeylem-h%c9%99n%cc%93q%cc%93%c9%99min%cc%93%c9%99m%cc%93/) and the Skwxwú7mesh-ulh speak [Sḵwx̱wú7mesh sníchim](https://native-land.ca/maps/languages/s%e1%b8%b5wx%cc%b1wu7mesh-snichim/).
 
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=languages&name=hulquminum--halqemylem--hnqminm,swxw7mesh-snchim" style="width:100%; height:400px; border:none;"></iframe>
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=languages&&position=49.266,-123.254" style="width:100%; height:400px; border:none;"></iframe>
 
 
 ### **Unceded**
