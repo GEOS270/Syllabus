@@ -1,4 +1,4 @@
-I"|<h1 class="no_toc" id="territorial-and-cultural-acknowledgement">Territorial and Cultural Acknowledgement</h1>
+I"�<h1 class="no_toc" id="territorial-and-cultural-acknowledgement">Territorial and Cultural Acknowledgement</h1>
 
 <details open="">
   <summary class="text-delta">
@@ -14,19 +14,23 @@
 
 <hr />
 
-<h2 id="first-nations-territories-in-bc">First Nations Territories in BC</h2>
+<h1 id="first-nations-territories-in-bc">First Nations Territories in BC</h1>
 
-<p>The University of British Columbia and the city of Vancouver are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically the xʷməθkʷəy̓əm (Musqueam), əl̓ilwətaɁɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh (Squamish) Nations.</p>
+<p>The University of British Columbia and the city of Vancouver are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically the UBC Vancouver campus is on xʷməθkʷəy̓əm (Musqueam) land.</p>
 
-<p>There are nearly 200 First Nations spread through BC, and many more across the continent.  To learn more about the Indigenous people, culture, and languages where you live and around the world, check out <a href="https://native-land.ca/">native-land.ca</a>.</p>
+<ul>
+  <li>There are nearly 200 First Nations spread through BC, and many more across the continent.</li>
+  <li>It is essential to recognize Indigenous territories and Indigenous sovereignty, especially within the context of geography courses.</li>
+  <li>To learn more about the Indigenous people, culture, and languages where you live and around the world, check out <a href="https://native-land.ca/">native-land.ca</a>.</li>
+</ul>
 
-<p><img src="images/first-nations-bc.jpg" alt="missing" class="inline" width="500" /></p>
+<p><img src="images/first-nations-bc.jpg" alt="missing" class="inline" width="100%" /></p>
 
 <p><a href="https://opentextbc.ca/indigenizationfoundations/chapter/acknowledging-traditional-territories/" target="_blank">Map Source</a></p>
 
 <hr />
 
-<h2 id="why-do-an-acknowledgement">Why Do an Acknowledgement?</h2>
+<h1 id="why-do-an-acknowledgement">Why Do an Acknowledgement?</h1>
 
 <p>For centuries, settler societies have perpetuated a genocide against Indigenous people across the globe.  In many ways this genocide is still ongoing here in British Columbia and across Canada.  There has been concerted effort by the government, religious organizations, and educational institutions to erase Indigenous cultures and identity from both the land and the map.  Historically, maps have been used as tools of oppression and we must work to de-colonize our practices in GIS.</p>
 <ul>
@@ -35,7 +39,7 @@
 
 <hr />
 
-<h2 id="what-does-it-mean">What Does it Mean?</h2>
+<h1 id="what-does-it-mean">What Does it Mean?</h1>
 
 <p>What do we mean when we say <strong>traditional</strong>, <strong>ancestral</strong>, and <strong>unceded territory</strong>?  It is meant to convey a deep rooted cultural connection to the land and coven the historical and present day injustices and violence enacted on Indigenous communities through colonialism.</p>
 

@@ -1,4 +1,4 @@
-I"� <h1 class="no_toc" id="course-overview">Course Overview</h1>
+I"t'<h1 class="no_toc" id="course-overview">Course Overview</h1>
 
 <p>This section of the syllabus is intended show you what you can expect from GEOS 270 this term.</p>
 <ul>
@@ -16,10 +16,10 @@
   <li><a href="#course-content" id="markdown-toc-course-content">Course Content</a>    <ol>
       <li><a href="#lectures" id="markdown-toc-lectures">Lectures</a></li>
       <li><a href="#lab-assignments" id="markdown-toc-lab-assignments">Lab Assignments</a></li>
+      <li><a href="#final-project" id="markdown-toc-final-project">Final Project</a></li>
+      <li><a href="#final-exam" id="markdown-toc-final-exam">Final Exam</a></li>
     </ol>
   </li>
-  <li><a href="#final-project" id="markdown-toc-final-project">Final Project</a></li>
-  <li><a href="#final-exam" id="markdown-toc-final-exam">Final Exam</a></li>
   <li><a href="#evaluation" id="markdown-toc-evaluation">Evaluation</a></li>
 </ol>
 
@@ -78,7 +78,7 @@
     <tr>
       <td><a href="https://geos270.github.io/Module6/">Module 6</a></td>
       <td>Spatial Analysis Methods cont.<br /> GIS Applications, Research,&amp; Ethics<br /> Exam Review</td>
-      <td>10 Nov</td>
+      <td>15 Nov</td>
       <td>02 Dec</td>
     </tr>
     <tr>
@@ -102,11 +102,43 @@
 
 <h2 id="lectures">Lectures</h2>
 
-<p>Lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.  Lectures are held each Tuesday/Thursday 12:30-14:00 in room 200 of the Geography building.  Lectures will also be streamed <a href="https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09">on zoom</a> and recordings will be made available on canvas the following day.</p>
+<p>Lectures will cover the module topics in depth and serve as your chance to ask questions and engage in discussion about the material.</p>
+<ul>
+  <li>At the start of each module, I will also give a brief overview of the module’s learning outcomes and it’s corresponding lab assignment.
+    <ul>
+      <li>The remaining portion of each module will consist of lecture material &amp; time for questions</li>
+    </ul>
+  </li>
+  <li>Lectures are held each Tuesday/Thursday 12:30-14:00 in room 200 of the Geography building.
+    <ul>
+      <li>Lectures will also be streamed <a href="https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09">on zoom</a> and recordings will be made available on canvas the following day.</li>
+    </ul>
+  </li>
+</ul>
 
-<h3 class="no_toc" id="lecture-participation">Lecture Participation</h3>
+<h3 class="no_toc" id="participation">Participation</h3>
 
-<hr />
+<p>Lecture participation will be gauged using a platform called <a href="https://tophat.com/students/">TopHat</a>.</p>
+
+<ul>
+  <li>The course <strong>Join Code</strong> is: <strong>605961</strong></li>
+  <li>Three to four questions will be embedded in each lecture presentation.
+    <ul>
+      <li>Questions can be answered via mobile device or laptop
+        <ul>
+          <li>Questions can <strong>only</strong> be answered during the lecture session</li>
+          <li>They will be available to in person and remote attendees</li>
+        </ul>
+      </li>
+      <li>Questions will be marked based on participation (50%) and correctness (50%)
+        <ul>
+          <li>Anonymized answers will be reviewed and shared with the class to help gauge comprehension</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>The participation participation will be incorporated into your <a href="Overview.md#evaluation">final grade</a>.</li>
+</ul>
 
 <h2 id="lab-assignments">Lab Assignments</h2>
 
@@ -154,32 +186,32 @@
   </tbody>
 </table>
 
-<h3 class="no_toc" id="lab-quizzes">Lab Quizzes</h3>
+<h3 class="no_toc" id="module-quizzes">Module Quizzes</h3>
 
 <p>Each module’s Lab Assignment will have an associated quiz that will be due on the date listed in the <a href="#course-schedule">Course Schedule</a>.  The quiz will primarily pertain to the Lab Assignment, but will also build on concepts covered in lecture.</p>
 <ul>
   <li>You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers, only your final submission will be marked.</li>
 </ul>
 
-<hr />
+<h2 id="final-project">Final Project</h2>
 
-<h1 id="final-project">Final Project</h1>
+<p>GIS is a collaborative discipline so your final project will be a group assignment (2-4 members).  The project can be on any topic you choose, but I will also provide you with a set of project ideas to help get you started.</p>
+<ul>
+  <li>Your project should be done with a group unless special circumstances necessitate otherwise.  You may only work on the project alone <strong>only</strong> if you get approval.</li>
+  <li>I will introduce the project in depth later on in term, but if you’d like to plan ahead, you can find details on the <a href="https://geos270.github.io/FinalProject/">Final Project Page</a></li>
+</ul>
 
-<p>The project is a group assignment (2-4 members) that will account for 25% of your final grade.  GIS is a collaborative discipline and your project should be done with a group unless special circumstances necessitate otherwise.  You may only work on the project alone <strong>only</strong> if you get approval.  I will introduce the project in depth later on in term, but if you’d like to plan ahead, you can find details on the <a href="https://geos270.github.io/FinalProject/">Final Proejct Page</a></p>
+<h2 id="final-exam">Final Exam</h2>
 
-<hr />
-
-<h1 id="final-exam">Final Exam</h1>
-
-<p>The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a flowchart question illustrating how to complete a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  The exam will cumulative and count for 20% of your final mark.</p>
+<p>The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a flowchart question illustrating how to complete a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  The exam will be cumulative, drawing from both lecture and lab material.</p>
 
 <ul>
-  <li>24 Hour Window to Complete
+  <li>48 Hour Window to Complete
     <ul>
       <li>0:00 December 15th to 23:59 December 16th</li>
-      <li><strong>One Attempt</strong> - six hours
+      <li><strong>One Attempt</strong> - five hours
         <ul>
-          <li>Not intended to take six hours.  I just don’t want you to feel rushed.</li>
+          <li>Not intended to take five hours, I just don’t want you to feel rushed.</li>
           <li>If you have a letter from access and diversity and need more than the allotted time, contact me <strong>before</strong> the exam.</li>
         </ul>
       </li>
@@ -191,7 +223,15 @@
 
 <h1 id="evaluation">Evaluation</h1>
 
-<p>At the end of term, your lowest scoring module quiz will be dropped.</p>
+<p>Module quizzes will make up the largest portion of your grade, followed by the final exam and final project which  will be weighted equally.</p>
+<ul>
+  <li>At the end of term, your lowest scoring module will be dropped, so everyone get a “free pass”.</li>
+  <li>TopHat questions (Lecture Participation) are a minor portion of you final grade.
+    <ul>
+      <li>They will be important for folks on a letter grade boundary.</li>
+    </ul>
+  </li>
+</ul>
 
 <table>
   <thead>
@@ -202,8 +242,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>Top 5 Module Quizzes</td>
-      <td>50%</td>
+      <td>Module Quizzes (Top 5)</td>
+      <td>45%</td>
     </tr>
     <tr>
       <td>Final Exam</td>
@@ -211,10 +251,10 @@
     </tr>
     <tr>
       <td>Final Project</td>
-      <td>20%</td>
+      <td>25%</td>
     </tr>
     <tr>
-      <td>Lecture Participation</td>
+      <td>TopHat Questions</td>
       <td>5%</td>
     </tr>
   </tbody>

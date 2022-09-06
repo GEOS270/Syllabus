@@ -1,4 +1,4 @@
-I"­<h1 class="no_toc" id="course-policies">Course Policies</h1>
+I"÷<h1 class="no_toc" id="course-policies">Course Policies</h1>
 
 <p>My aim for this semester is to provide a flexible and supportive learning environment while respecting the boundaries of myself and your TAs.  These course policies are intended to establish a framework for navigating the course.</p>
 
@@ -21,37 +21,35 @@
 <p>Module quizzes will be marked by your TA using a standard rubric.  Short comments will be provided where applicable on written answers &amp; map submissions.  Submissions will be accepted without late penalty for seven days after their due date.</p>
 
 <ul>
-  <li>Quizzees submitted <strong>by the due date</strong> will be graded and returned within seven days after the due date.
+  <li>Quizzes submitted <strong>by the due date</strong> will be graded and returned within seven days of the due date.
     <ul>
       <li>If you want further feedback ask your TA in lab or by email.</li>
     </ul>
   </li>
-  <li>Quizzees submitted <strong>after the due date</strong> waive their right to prompt grading/feedback.
+  <li>Late submissions <strong>waive their right</strong> to prompt grading/feedback.
     <ul>
-      <li>Late assignments will not recieve written feedback and will be marked whenever is convenient for your TA
+      <li>Late quiz submissions will not receive written feedback and will be marked whenever is convenient for your TA, which could be as late as the end of term</li>
+      <li>After the seven day grace period, the quiz submission window will <strong>close</strong>, no exceptions.
         <ul>
-          <li>This could be as late as the end of term</li>
+          <li><strong>Do not</strong> request an extension from your TA</li>
+          <li>If extenuating circumstances necessitate an accommodation, contact June</li>
         </ul>
       </li>
     </ul>
   </li>
-  <li>After the seven day grace period, <strong>submissions will no longer be accepted</strong>.
+  <li>The seven day grace period <strong>does not</strong> apply to the final project or exam.
     <ul>
-      <li><strong>Do not</strong> request an extension from your TA</li>
-    </ul>
-  </li>
-  <li>The seven day grace period <strong>does not</strong> apply to the final project.
-    <ul>
-      <li>Late projects will be marked more harshly than on-time submissions</li>
+      <li>Late projects will be docked 10% per day late</li>
+      <li>The exam will only be available during the exam window.</li>
     </ul>
   </li>
 </ul>
 
 <h1 id="accommodations">Accommodations</h1>
 
-<p>I will make accommodations on a case by case basis for extenuating circumstances that prevent you completing course work.  If you experience extenuating circumstances that require an accomodation please contact June by email (<a href="june.skeeter@ubc.ca">june.skeeter@ubc.ca</a>).  It is your responsibility to communicate your needs in a timely fashion (i.e. <strong>before</strong> a due date).</p>
-
+<p>I will make accommodations on a case by case basis for extenuating circumstances that prevent you completing course work.  It is your responsibility to communicate your needs in a timely fashion (i.e. <strong>before</strong> a due date).</p>
 <ul>
+  <li>If you require an accommodation please contact June by email: <a href="june.skeeter@ubc.ca">june.skeeter@ubc.ca</a></li>
   <li>My typical approach is to give an alternative assignment or adjusting the weight of grades rather than giving extensions.</li>
 </ul>
 
@@ -75,15 +73,10 @@
 
 <h1 id="strategies-for-success">Strategies for Success</h1>
 
+<p><strong>Be proactive!</strong></p>
 <ul>
-  <li>Be proactive
-    <ul>
-      <li>Timely communication is important!</li>
-      <li>Donâ€™t wait until the last minute to set up ArcGIS Pro, do it now to save yourself a headache down the road.</li>
-      <li>Drop by office hours</li>
-      <li>Attend Lectures</li>
-      <li>Ask Questions!</li>
-    </ul>
-  </li>
+  <li>Timely communication is important!  If you have an issue, please bring it to my attention.</li>
+  <li>Drop by office hours &amp; ask questions!</li>
+  <li>Donâ€™t wait until the last minute to set up ArcGIS Pro, do it now to save yourself a headache down the road.</li>
 </ul>
 :ET

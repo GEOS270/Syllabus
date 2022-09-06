@@ -1,4 +1,4 @@
-I"�<h1 class="no_toc" id="software-and-computer-access">Software and Computer Access</h1>
+I"<h1 class="no_toc" id="software-and-computer-access">Software and Computer Access</h1>
 
 <p>To complete your lab assignments, you will be using ESRI’s ArcGIS Pro.  This is a proprietary program (it costs money) that can <strong>only</strong> be run on the Windows opperating system.  You have two options for accessing the software:</p>
 
@@ -32,7 +32,7 @@
     <p>If your personal coputer is running Mac or Linux, it is <strong>strongly Recomened</strong> you use this method to access ArcGIS Pro.</p>
   </li>
   <li>
-    <p>There is a lab fee to use geography computers: you must <a href="http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/">pay the lab fee</a> by May 31st or you will loose access to your account.</p>
+    <p>There is a lab fee to use geography computers: you must <a href="http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/">pay the lab fee</a> by September 30th or you will loose access to your account.</p>
   </li>
   <li>
     <p><strong>If you are having trouble logging on remotely</strong> try: adding “geoglab" in front of your username.</p>
@@ -43,12 +43,13 @@
 
 <h2 id="option-2-purchase-a-student-license">Option 2: Purchase a Student License</h2>
 
-<p>You may purchase a student version of the software to install on your own computer for $30. ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine.</p>
+<p>You may purchase a student version of the software to install on your own computer for $20. ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine.</p>
 
 <ul>
   <li>If you have a Mac or Linux computer, you can <a href="https://support.apple.com/en-ca/HT201468">follow these instructions</a> to setup a partition.
     <ul>
       <li><strong>We cannot</strong> provide any support for this step of the installation and it will probably just be easier for you to use Option 1 instead.</li>
+      <li><strong>Note</strong>: newer versions of MacOS do not support partitioning</li>
     </ul>
   </li>
 </ul>
