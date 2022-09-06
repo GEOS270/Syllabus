@@ -46,9 +46,28 @@ This course will introduce you to key concepts and tools used to collect, map, a
 
 My name is June and I am a non-binary geographer, researcher, and educator.  I have been living as an uninvited guest on unceded Coast Salish Territory since 2015 and will be receiving a PhD in Geography from the University of British Columbia in Fall 2022.
 
-I have been teaching GEOS 270 since 2020.  I am passionate about teaching Geographic Information Science and using Geographic Information Systems as a tool to address social and ecological justice issues.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
+I have been teaching GEOS 270 since 2020.  I am passionate about teaching Geographic Information Science and using Geographic Information Systems as a tool to address social and ecological justice issues.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.  When I'm not working, I like to spend my free time hiking, gardening, foraging, and going to drag shows.  
 
-I use GIS extensively is my research on climate change in the wetland ecosystems.  For my PhD, I studied greenhouse gas exchange remote [Arctic Ecosystems](https://cdnsciencepub.com/doi/full/10.1139/as-2021-0034).  Now I am working for the [UBC Micrometeorology Lab](https://blogs.ubc.ca/saraknox/) studying greenhouse gas exchange in local wetlands in Vancouver.  When I'm not working, I like to spend my free time hiking, gardening, foraging, and going to drag shows.  
+I use GIS extensively is my research on climate change in the wetland ecosystems.
+
+* For my PhD, I studied greenhouse gas exchange remote [Arctic Ecosystems](https://cdnsciencepub.com/doi/full/10.1139/as-2021-0034).  
+* Now I am working for the [UBC Micrometeorology Lab](https://blogs.ubc.ca/saraknox/).  We study carbon balances in wetland ecosystems in the Metro Vancouver area.
+  * If anyone is interested in micrometeorology and/or climate science, don't hesitate to reach out!
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="https://ubc-micromet.github.io/FieldSiteMaps/" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
 
 
 ---

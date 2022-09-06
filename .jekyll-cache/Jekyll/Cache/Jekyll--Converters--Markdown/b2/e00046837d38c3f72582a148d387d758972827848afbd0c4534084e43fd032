@@ -1,4 +1,4 @@
-I" <h1 class="no_toc" id="software-and-computer-access">Software and Computer Access</h1>
+I"»<h1 class="no_toc" id="software-and-computer-access">Software and Computer Access</h1>
 
 <p>To complete your lab assignments, you will be using ESRIâ€™s ArcGIS Pro.  This is a proprietary program (it costs money) that can <strong>only</strong> be run on the Windows opperating system.  You have two options for accessing the software:</p>
 
@@ -9,7 +9,6 @@
 <ol id="markdown-toc">
   <li><a href="#option-1-geography-lab-computers" id="markdown-toc-option-1-geography-lab-computers">Option 1: Geography Lab Computers</a></li>
   <li><a href="#option-2-purchase-a-student-license" id="markdown-toc-option-2-purchase-a-student-license">Option 2: Purchase a Student License</a></li>
-  <li><a href="#option-3-ubc-library-gis-last-resort" id="markdown-toc-option-3-ubc-library-gis-last-resort">Option 3: UBC Library GIS (Last Resort)</a></li>
 </ol>
 
 </details>
@@ -61,7 +60,4 @@
   <li>If you run into any issues, contact Jose Aparicio at: labhelp@geog.ubc.ca</li>
 </ul>
 
-<h2 id="option-3-ubc-library-gis-last-resort">Option 3: UBC Library GIS (Last Resort)</h2>
-
-<p>This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the Koerner Library GIS Computers in person in room 217 or the computers in <a href="https://remotelabs.ubc.ca/">room 218 remotely</a>.  These computers are not guranteed to be running most up to date version of ArcGIS Pro.</p>
 :ET

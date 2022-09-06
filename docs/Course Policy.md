@@ -22,15 +22,17 @@ My aim for this semester is to provide a flexible and supportive learning enviro
 
 # Feedback & Deadlines
 
-Lab submissions will be marked by your TA using a standard rubric.  Short comments will be provided where applicable on written answers & map submissions.  Lab submissions will be accepted without late penalty for seven days after their due date.
+Module quizzes will be marked by your TA using a standard rubric.  Short comments will be provided where applicable on written answers & map submissions.  Submissions will be accepted without late penalty for seven days after their due date.
 
-* Labs submitted **by the due date** will be graded and returned within seven days after the due date.
+* Quizzees submitted **by the due date** will be graded and returned within seven days after the due date.
   * If you want further feedback ask your TA in lab or by email.
-* Labs submitted **after the due date** waive their right to prompt grading/feedback.  
-  * Late assignments will not recieve written feedback and will be marked whenever is convenient for your TA.
-    * This could be as late as the end of term.
+* Quizzees submitted **after the due date** waive their right to prompt grading/feedback.  
+  * Late assignments will not recieve written feedback and will be marked whenever is convenient for your TA
+    * This could be as late as the end of term
 * After the seven day grace period, **submissions will no longer be accepted**.
-  * **Do not** request an extension from your TA.
+  * **Do not** request an extension from your TA
+* The seven day grace period **does not** apply to the final project.
+  * Late projects will be marked more harshly than on-time submissions
 
 #  Accommodations
 
@@ -61,9 +63,7 @@ Though you may work together with your classmates on the assignments and help ea
 
 # Strategies for Success
 
-* Be proactive 
-  * Timely communication is important!
-  * Don't wait until the last minute to set up ArcGIS Pro, do it now to save yourself a headache down the road.
-  * Drop by office hours
-  * Attend Lectures
-  * Ask Questions!
+**Be proactive!** 
+* Timely communication is important!  If you have an issue, please bring it to my attention.
+* Drop by office hours & ask questions!
+* Don't wait until the last minute to set up ArcGIS Pro, do it now to save yourself a headache down the road.
