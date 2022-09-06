@@ -2,7 +2,7 @@
 layout: default
 title: Course Overview
 parent: Course Syllabus
-nav_order: 1
+nav_order: 2
 ---
 
 # Course Overview
@@ -38,7 +38,7 @@ The course consists of six modules, a final project, and a final exam.  They are
 |[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization                                 |29 Sep    |21 Oct  |
 |[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                                                   |13 Oct    |04 Nov  |
 |[Module 5](https://geos270.github.io/Module5/)          |Spatial Analysis Methods & GIS Workflows                                              |27 Oct    |18 Nov  |
-|[Module 6](https://geos270.github.io/Module6/)          |Spatial Analysis Methods cont.<br> GIS Applications, Research,& Ethics<br> Exam Review|10 Nov    |02 Dec  |
+|[Module 6](https://geos270.github.io/Module6/)          |Spatial Analysis Methods cont.<br> GIS Applications, Research,& Ethics<br> Exam Review|15 Nov    |02 Dec  |
 |[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                                                     |09 Dec    |09 Dec  |
 |[Final Exam](docs/Overview.md/##final-exam)             |Asynchronous on Canvas                                                                |16 Dec    |16 Dec  |
 
@@ -49,15 +49,19 @@ The course consists of six modules, a final project, and a final exam.  They are
 
 ## Lectures
 
-Lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.  Lectures are held each Tuesday/Thursday 12:30-14:00 in room 200 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09) and recordings will be made available on canvas the following day.
+Lectures will cover the module topics in depth and serve as your chance to ask questions and engage in discussion about the material.
+* At the start of each module, I will also give a brief overview of the module's learning outcomes and it's corresponding lab assignment.
+  * The remaining portion of each module will consist of lecture material & time for questions
+* Lectures are held each Tuesday/Thursday 12:30-14:00 in room 200 of the Geography building.
+  * Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09) and recordings will be made available on canvas the following day.
 
-### Lecture Participation
+### Participation
 {: .no_toc}
 
 Lecture participation will be gauged using a platform called [TopHat](https://tophat.com/students/).
 
 * The course **Join Code** is: **605961**
-* Questions (3-4) will be embedded in lecture presentations each day.
+* Three to four questions will be embedded in each lecture presentation.
   * Questions can be answered via mobile device or laptop
     * Questions can **only** be answered during the lecture session
     * They will be available to in person and remote attendees
@@ -90,28 +94,33 @@ Each module's Lab Assignment will have an associated quiz that will be due on th
 
 ## Final Project
 
-The project is a group assignment (2-4 members) that will account for 25% of your final grade.  GIS is a collaborative discipline and your project should be done with a group unless special circumstances necessitate otherwise.  You may only work on the project alone **only** if you get approval.  I will introduce the project in depth later on in term, but if you'd like to plan ahead, you can find details on the [Final Project Page](https://geos270.github.io/FinalProject/) 
+GIS is a collaborative discipline so your final project will be a group assignment (2-4 members).  The project can be on any topic you choose, but I will also provide you with a set of project ideas to help get you started.
+* Your project should be done with a group unless special circumstances necessitate otherwise.  You may only work on the project alone **only** if you get approval.
+* I will introduce the project in depth later on in term, but if you'd like to plan ahead, you can find details on the [Final Project Page](https://geos270.github.io/FinalProject/) 
 
 
 ## Final Exam
 
-The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a flowchart question illustrating how to complete a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  The exam will cumulative and count for 25% of your final mark.
+The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a flowchart question illustrating how to complete a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  The exam will be cumulative, drawing from both lecture and lab material.
 
-* 24 Hour Window to Complete
+* 48 Hour Window to Complete
   * 0:00 December 15th to 23:59 December 16th
-  * **One Attempt** - six hours
-    * Not intended to take six hours.  I just don't want you to feel rushed.
+  * **One Attempt** - five hours
+    * Not intended to take five hours, I just don't want you to feel rushed.
     * If you have a letter from access and diversity and need more than the allotted time, contact me **before** the exam.
 
 ---
 
 # Evaluation
 
-At the end of term, your lowest scoring module quiz will be dropped.
+Module quizzes will make up the largest portion of your grade, followed by the final exam and final project which  will be weighted equally.
+* At the end of term, your lowest scoring module will be dropped, so everyone get a "free pass".
+* TopHat questions (Lecture Participation) are a minor portion of you final grade.
+  * They will be important for folks on a letter grade boundary.
 
-| Points Distribution   | Percent of Points |
-|-----------------------|-------------------|
-| Top 5 Module Quizzes  | 45%               |
-| Final Exam            | 25%               |
-| Final Project         | 25%               |
-| Lecture Participation | 5%                |
+| Points Distribution    | Percent of Points |
+|------------------------|-------------------|
+| Module Quizzes (Top 5) | 45%               |
+| Final Exam             | 25%               |
+| Final Project          | 25%               |
+| TopHat Questions       | 5%                |

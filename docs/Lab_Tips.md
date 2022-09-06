@@ -2,6 +2,7 @@
 layout: default
 title: Tips for Geography Lab Computers
 parent: Software and Computer Access
+grand_parent: Course Syllabus
 # has_children: True
 nav_order: 1
 ---

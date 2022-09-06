@@ -2,7 +2,7 @@
 layout: default
 title: Course Policies
 parent: Course Syllabus
-nav_order: 2
+nav_order: 3
 ---
 
 # Course Policies
@@ -24,20 +24,21 @@ My aim for this semester is to provide a flexible and supportive learning enviro
 
 Module quizzes will be marked by your TA using a standard rubric.  Short comments will be provided where applicable on written answers & map submissions.  Submissions will be accepted without late penalty for seven days after their due date.
 
-* Quizzees submitted **by the due date** will be graded and returned within seven days after the due date.
+* Quizzes submitted **by the due date** will be graded and returned within seven days of the due date.
   * If you want further feedback ask your TA in lab or by email.
-* Quizzees submitted **after the due date** waive their right to prompt grading/feedback.  
-  * Late assignments will not recieve written feedback and will be marked whenever is convenient for your TA
-    * This could be as late as the end of term
-* After the seven day grace period, **submissions will no longer be accepted**.
-  * **Do not** request an extension from your TA
-* The seven day grace period **does not** apply to the final project.
-  * Late projects will be marked more harshly than on-time submissions
+* Late submissions **waive their right** to prompt grading/feedback.  
+  * Late quiz submissions will not receive written feedback and will be marked whenever is convenient for your TA, which could be as late as the end of term
+  * After the seven day grace period, the quiz submission window will **close**, no exceptions.
+    * **Do not** request an extension from your TA
+    * If extenuating circumstances necessitate an accommodation, contact June
+* The seven day grace period **does not** apply to the final project or exam.
+  * Late projects will be docked 10% per day late
+  * The exam will only be available during the exam window.
 
 #  Accommodations
 
-I will make accommodations on a case by case basis for extenuating circumstances that prevent you completing course work.  If you experience extenuating circumstances that require an accomodation please contact June by email ([june.skeeter@ubc.ca](june.skeeter@ubc.ca)).  It is your responsibility to communicate your needs in a timely fashion (i.e. **before** a due date).
-
+I will make accommodations on a case by case basis for extenuating circumstances that prevent you completing course work.  It is your responsibility to communicate your needs in a timely fashion (i.e. **before** a due date).
+* If you require an accommodation please contact June by email: [june.skeeter@ubc.ca](june.skeeter@ubc.ca)
 * My typical approach is to give an alternative assignment or adjusting the weight of grades rather than giving extensions.
 
 Please contact the [Center for Accessibility](https://students.ubc.ca/about-student-services/centre-for-accessibility) if you require accommodations for a disability.  Once you are registered please make me aware of any necessary accommodations by email in a timely manner.
