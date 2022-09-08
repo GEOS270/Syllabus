@@ -96,5 +96,3 @@ The geography lab computers are currently running the Windows 10 OS.  Windows is
 * [15 Windows 10 Tips for Mac Users](https://www.pcmag.com/how-to/windows-10-tips-for-mac-users)
 
 * [16 tips for Mac users who must use Windows](https://www.computerworld.com/article/2476636/16-tips-for-mac-users-who-must-use-windows.html)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y17QFVWYGlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

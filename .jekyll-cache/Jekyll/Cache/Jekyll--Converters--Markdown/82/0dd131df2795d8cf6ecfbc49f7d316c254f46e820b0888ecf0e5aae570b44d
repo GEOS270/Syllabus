@@ -1,0 +1,98 @@
+I"z<h1 class="no_toc" id="tips-for-geography-lab-computers">Tips for Geography Lab Computers</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#using-geography-lab-computers" id="markdown-toc-using-geography-lab-computers">Using Geography Lab Computers</a></li>
+  <li><a href="#initalize-your-h-dirve" id="markdown-toc-initalize-your-h-dirve">Initalize your H:/ Dirve</a></li>
+  <li><a href="#work-locally-save-remotely" id="markdown-toc-work-locally-save-remotely">Work Locally, Save Remotely</a></li>
+  <li><a href="#windows-tips-for-mac-users" id="markdown-toc-windows-tips-for-mac-users">Windows Tips for Mac Users</a></li>
+</ol>
+
+</details>
+
+<hr />
+
+<h1 id="using-geography-lab-computers">Using Geography Lab Computers</h1>
+
+<p>This video gives an overview of some important steps when using the lab computers.</p>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="videos/GEOS_270-Saving_Your_Work.mp4" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="videos/GEOS_270-Saving_Your_Work.mp4" target="_blank">View Video in New Tab</a></p>
+
+<hr />
+
+<h1 id="initalize-your-h-dirve">Initalize your H:/ Dirve</h1>
+
+<p><strong>When you first logon to geography lab computers with your account</strong> find C:\Apps\RunOnce.bat in the file manager.  Double click on it to run it.  This will initalize your account and set up access to your <strong>H:/</strong> drive.</p>
+
+<p><img src="images/RunOnce_File_Location.PNG" alt="RunOnce" class="inline" width="500" /></p>
+
+<hr />
+
+<h1 id="work-locally-save-remotely">Work Locally, Save Remotely</h1>
+
+<h2 class="no_toc" id="work-locally">Work Locally</h2>
+
+<p>During your lab, you should save your work to <strong>C:\temp</strong>. This is a folder stored locally on the computer you are working on.  Since it’s the same machine you’re working on, ArcGIS Pro can easily and quickly access and save files in this folder.</p>
+
+<ul>
+  <li><strong>Avoid</strong> saving files to the Desktop or Documents folders and try to empty the Downloads folder frequently. These folders are all part of your user profile which travels to/from the server when you log in/off. The more data there is in the profile the longer it will take to log in/off. We had a student with 106GB on profile and it took 45 minutes to get in!</li>
+</ul>
+
+<h2 class="no_toc" id="save-remotely">Save Remotely</h2>
+
+<p>The <strong>C:\temp</strong> drive can accessed by multiple users.  A single computer in room 115 might have 20-30 different students accessing it (in person + remotely) in a given week.  Each time a new user logs on, the <strong>C:/temp</strong> folder is at risk for being overwritten.</p>
+
+<ul>
+  <li>It is <strong>EXTREMELY IMPORTANT</strong> that you save your work elsewhere before you log off.  When you sign up for your Geography lab account, you will be given server space known as your <strong>H:/</strong> drive folder; you should save your work here. To do so, follow these steps:</li>
+</ul>
+
+<p><strong class="label label-red">1</strong> Save your Map document and close ArcGIS Pro or any other software you may be using (Word, Excel, etc. …)</p>
+
+<p><strong class="label label-red">2</strong> Launch My Computer, and navigate to <strong>C:\temp</strong></p>
+
+<p><strong class="label label-red">3</strong> Right click on your lab folder in <strong>C:\temp</strong> and select <strong>Copy</strong></p>
+
+<p><strong class="label label-red">4</strong> Navigate to <strong>H:/</strong> and <strong>paste</strong> your lab folder here</p>
+
+<h2 class="no_toc" id="steps-for-retrieving-work-from-h">Steps for Retrieving Work from H:/</h2>
+
+<p>When you come back next time to complete the assignment, you will transfer the files in the reverse direction. This is because the <strong>H:/</strong> drive is stored on a networked server, not the local machine.  ArcGIS Pro will run slowly if you try to work directly from the <strong>H:/</strong> drive, which is why you <strong>must transfer your files first</strong>. To transfer your files:</p>
+
+<p><strong class="label label-blue">1</strong> Log in</p>
+
+<p><strong class="label label-blue">2</strong> Use My Computer to find <strong>C:\temp</strong> and delete all the files you find there since they are likely not yours and you don’t want to get mixed up.</p>
+
+<p><strong class="label label-blue">3</strong> Navigate to your <strong>H:/</strong> drive, select your current lab’s folder , and copy it to <strong>C:\temp</strong></p>
+
+<p><strong class="label label-blue">4</strong> Resume your work</p>
+
+<h1 id="windows-tips-for-mac-users">Windows Tips for Mac Users</h1>
+
+<p>The geography lab computers are currently running the Windows 10 OS.  Windows is quite different than the Mac OS, and for those who have little familiarity with Windows, there can be step (but short!) learning curve.  Here are a few resources that Mac users might find helpful to look through before starting lab:</p>
+
+<ul>
+  <li>
+    <p><a href="https://www.pcmag.com/how-to/windows-10-tips-for-mac-users">15 Windows 10 Tips for Mac Users</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.computerworld.com/article/2476636/16-tips-for-mac-users-who-must-use-windows.html">16 tips for Mac users who must use Windows</a></p>
+  </li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y17QFVWYGlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+:ET
