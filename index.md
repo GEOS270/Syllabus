@@ -78,7 +78,7 @@ I use GIS extensively is my research on climate change in the wetland ecosystems
 
 | Pronouns | He/Him/His |
 | Email | landenm@student.ubc.ca |
-| Office | Room TBD, Geography Bldg. |
+| Office | Room 246, Geography Bldg. |
 
 My name is Landen, and I am an MSc student in geography, studying channel response to the loss of riparian vegetation and beaver habitats in British Columbia. My research background has focused on applying GIS, and remote sensing technologies to various topics focused on watershed productivity and health. When I am not studying or working, I am most likely hiking, snowboarding, surfing, or reading.
 
