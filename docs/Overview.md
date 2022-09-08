@@ -31,16 +31,17 @@ The course consists of six modules, a final project, and a final exam.  They are
 
 * **Note**: course content is already available for those who would like to look ahead, **but** specific content may change up to date each module is introduced in lecture.
 
-|                         Module                         |                                        Topic                                         |Start Date|Due Date|
-|--------------------------------------------------------|--------------------------------------------------------------------------------------|----------|--------|
-|[Module 1](https://geos270.github.io/Module1/)          |History of GIS & Intro to ArcGIS Pro                                                  |08 Sep    |23 Sep  |
-|[Module 2](https://geos270.github.io/Module2/)          |Coordinate Reference Systems                                                          |15 Sep    |07 Oct  |
-|[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization                                 |29 Sep    |21 Oct  |
-|[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                                                   |13 Oct    |04 Nov  |
-|[Module 5](https://geos270.github.io/Module5/)          |Spatial Analysis Methods & GIS Workflows                                              |27 Oct    |18 Nov  |
-|[Module 6](https://geos270.github.io/Module6/)          |Spatial Analysis Methods cont.<br> GIS Applications, Research,& Ethics<br> Exam Review|15 Nov    |02 Dec  |
-|[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                                                     |09 Dec    |09 Dec  |
-|[Final Exam](docs/Overview.md/##final-exam)             |Asynchronous on Canvas                                                                |16 Dec    |16 Dec  |
+|                         Module                         |                                Topic                                 |Start Date|Due Date|
+|--------------------------------------------------------|----------------------------------------------------------------------|----------|--------|
+|[Module 1](https://geos270.github.io/Module1/)          |History of GIS & Intro to ArcGIS Pro                                  |08 Sep    |23 Sep  |
+|[Module 2](https://geos270.github.io/Module2/)          |Coordinate Reference Systems                                          |15 Sep    |07 Oct  |
+|[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization                 |29 Sep    |21 Oct  |
+|[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                                   |13 Oct    |04 Nov  |
+|[Module 5](https://geos270.github.io/Module5/)          |Spatial Analysis Methods & GIS Workflows                              |27 Oct    |18 Nov  |
+|[Module 6](https://geos270.github.io/Module6/)          |Spatial Analysis Methods cont.<br> GIS Applications, Research,& Ethics|15 Nov    |02 Dec  |
+|[Exam Review](docs/Overview.md/##final-exam)            |Exam Review                                                           |06 Dec    |N/A     |
+|[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                                     |N/A       |09 Dec  |
+|[Final Exam](docs/Overview.md/##final-exam)             |Asynchronous on Canvas                                                |15 Dec    |16 Dec  |
 
 
 ---

@@ -25,17 +25,17 @@ To complete your lab assignments, you will be using ESRI's ArcGIS Pro.  This is 
 
 ## Option 1: Geography Lab Computers
 
-All students will be given a UBC Geography logon, you should recieve logon credentials by email before the first day of lab.
+The Geography Department has two computer labs (rooms 115 and 237).  They may be accessed in-person when the geography building is open and can be accessed remotely (via remote desktop connection) 24 hours a day, 7 days a week.  All students will be given a UBC Geography logon, you should recieve logon credentials by email before the first day of lab.
 
-The Geography Department has two computer labs (rooms 115 and 237).  They may be accessed in-person when the geography building is open and can be accessed remotely (via remote desktop connection) 24 hours a day, 7 days a week.  To remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).  Information about the Geography Computer Labs can be found [here](https://geog.ubc.ca/undergraduate/study-resources/).  
-
-* **Note** the lab schedule and **refrain from remotely accessing a computer while other courses are holding lab session in that room**.
+* There is a lab fee to use geography computers: you must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/) or you will loose access to your account.  
 
 * If you have not received logon credentials, contact Jose Aparicio at: [labhelp@geog.ubc.ca](labhelp@geog.ubc.ca) 
 
 * If your personal coputer is running Mac or Linux, it is **strongly Recomened** you use this method to access ArcGIS Pro.
 
-* There is a lab fee to use geography computers: you must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/) by September 30th or you will loose access to your account.  
+To remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).  Information about the Geography Computer Labs can be found [here](https://geog.ubc.ca/undergraduate/study-resources/).  
+
+* **Note** the lab schedule and **refrain from remotely accessing a computer while other courses are holding lab session in that room**.
 
 * **If you are having trouble logging on remotely** try: adding "geoglab\" in front of your username.
 

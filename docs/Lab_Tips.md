@@ -21,7 +21,7 @@ nav_order: 1
 
 ---
 
-## Using Geography Lab Computers
+# Using Geography Lab Computers
 
 This video gives an overview of some important steps when using the lab computers.
 
@@ -43,7 +43,7 @@ This video gives an overview of some important steps when using the lab computer
 ---
 
 
-## Initalize your H:/ Dirve
+# Initalize your H:/ Dirve
 
 **When you first logon to geography lab computers with your account** find C:\Apps\RunOnce.bat in the file manager.  Double click on it to run it.  This will initalize your account and set up access to your **H:/** drive.
 
@@ -51,9 +51,9 @@ This video gives an overview of some important steps when using the lab computer
 
 ---
 
-## Work Locally, Save Remotely
+# Work Locally, Save Remotely
 
-### Work Locally
+## Work Locally
 {: .no_toc }
 
 
@@ -61,7 +61,7 @@ During your lab, you should save your work to **C:\temp**. This is a folder stor
 
 * **Avoid** saving files to the Desktop or Documents folders and try to empty the Downloads folder frequently. These folders are all part of your user profile which travels to/from the server when you log in/off. The more data there is in the profile the longer it will take to log in/off. We had a student with 106GB on profile and it took 45 minutes to get in!
 
-### Save Remotely
+## Save Remotely
 {: .no_toc }
 
 The **C:\temp** drive can accessed by multiple users.  A single computer in room 115 might have 20-30 different students accessing it (in person + remotely) in a given week.  Each time a new user logs on, the **C:/temp** folder is at risk for being overwritten. 
@@ -76,7 +76,7 @@ The **C:\temp** drive can accessed by multiple users.  A single computer in room
 
 **4**{: .label .label-red } Navigate to **H:/** and **paste** your lab folder here
 
-### Steps for Retrieving Work from H:/
+## Steps for Retrieving Work from H:/
 {: .no_toc }
 
 When you come back next time to complete the assignment, you will transfer the files in the reverse direction. This is because the **H:/** drive is stored on a networked server, not the local machine.  ArcGIS Pro will run slowly if you try to work directly from the **H:/** drive, which is why you **must transfer your files first**. To transfer your files:
@@ -89,3 +89,12 @@ When you come back next time to complete the assignment, you will transfer the f
 
 **4**{: .label .label-blue } Resume your work
 
+# Windows Tips for Mac Users
+
+The geography lab computers are currently running the Windows 10 OS.  Windows is quite different than the Mac OS, and for those who have little familiarity with Windows, there can be step (but short!) learning curve.  Here are a few resources that Mac users might find helpful to look through before starting lab:
+
+* [15 Windows 10 Tips for Mac Users](https://www.pcmag.com/how-to/windows-10-tips-for-mac-users)
+
+* [16 tips for Mac users who must use Windows](https://www.computerworld.com/article/2476636/16-tips-for-mac-users-who-must-use-windows.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y17QFVWYGlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
