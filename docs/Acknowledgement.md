@@ -42,7 +42,7 @@ For centuries, settler societies have perpetuated a genocide against Indigenous 
 
 # What Does it Mean?
 
-What do we mean when we say **traditional**, **ancestral**, and **unceded territory**?  It is meant to convey a deep rooted cultural connection to the land and coven the historical and present day injustices and violence enacted on Indigenous communities through colonialism.
+What do we mean when we say **traditional**, **ancestral**, and **unceded territory**?  It is meant to convey a deep rooted cultural connection to the land and the historical and present day injustices and violence enacted on Indigenous communities through colonialism.
 
 ### **Traditional**
 {: .no_toc }
