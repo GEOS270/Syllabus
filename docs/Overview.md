@@ -81,10 +81,10 @@ Labs will build on the lecture and will primarily focus on GIS applications, giv
 
 |Lab |   Time slot            |  TA  |
 |----|------------------------|------|
-|L1A |Tuesday 16:00-18:00     |[Landen](/#landen-matechuk)|
-|L1B |Tuesday 10:00-12:00     |[Landen](/#landen-matechuk)|
-|L1C |Wednesday 12:00-14:00   |[Sierra](/#sierra-collins)|
-|L1D |Friday 14:00-16:00      |[Sierra](/#sierra-collins)|
+|L1A |Tuesday 16:00-18:00     |[Landen](../#landen-matechuk)|
+|L1B |Tuesday 10:00-12:00     |[Landen](../#landen-matechuk)|
+|L1C |Wednesday 12:00-14:00   |[Sierra](../#sierra-collins)|
+|L1D |Friday 14:00-16:00      |[Sierra](../#sierra-collins)|
 
 ### Module Quizzes
 {: .no_toc}
