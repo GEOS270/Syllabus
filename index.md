@@ -40,7 +40,7 @@ This course will introduce you to key concepts and tools used to collect, map, a
 | Pronouns | They/Them/Theirs |
 | Email | june.skeeter@ubc.ca |
 | Office | Room 144, Geography Bldg. |
-| Office Hours| Tuesdays/Thursdays<br>**After** lecture 14:00-15:00 <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment* |
+| Office Hours| Tuesdays/Thursdays<br>**After** lecture 14:00-15:00 <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment, at least 24hrs notice required* |
 
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
