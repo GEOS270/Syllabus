@@ -39,7 +39,8 @@ Module quizzes will be marked by your TA using a standard rubric.  Short comment
 
 I will make accommodations on a case by case basis for extenuating circumstances that prevent you completing course work.  It is your responsibility to communicate your needs in a timely fashion (i.e. **before** a due date).
 * If you require an accommodation please contact June by email: [june.skeeter@ubc.ca](june.skeeter@ubc.ca)
-* My typical approach is to give an alternative assignment or adjusting the weight of grades rather than giving extensions.
+* My typical approach is to give an alternative assignment rather than giving extensions on labs because we post the answers after submission deadlines:
+  * i.e. An alternative lab might consist of writing up an essay or two pertaining to the lecture material + making any maps/figures from the lab, then submitting directly to me by email anytime before the last day of class.  If you would prefer this option instead just let me know.
 
 Please contact the [Center for Accessibility](https://students.ubc.ca/about-student-services/centre-for-accessibility) if you require accommodations for a disability.  Once you are registered please make me aware of any necessary accommodations by email in a timely manner.
 
