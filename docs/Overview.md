@@ -38,8 +38,8 @@ The course consists of six modules, a final project, and a final exam.  They are
 |[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization        |27 Sep    |21 Oct  |
 |[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                          |11 Oct    |04 Nov  |
 |[Module 5](https://geos270.github.io/Module5/)          |GIS Workflows & Spatial Analysis Methods                     |25 Oct    |18 Nov  |
-|[Module 6](https://geos270.github.io/Module6/)          |Spatial Analysis Methods cont.<br> GIS Applications & Ethics |15 Nov    |02 Dec  |
-|[Module 7](docs/Overview.md/##final-exam)               |Tying Up Loose Ends & Exam Review                            |02 Dec    |N/A     |
+|[Module 6](https://geos270.github.io/Module6/)          |SpatiSampling, Uncertainty, & Ethics                         |15 Nov    |02 Dec  |
+|[Module 7](docs/Overview.md/##final-exam)               |GIS Applications, GIS Programming & Exam Review              |01 Dec    |N/A     |
 |[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                            |03 Nov    |25 Nov & 09 Dec  |
 |[Final Exam](docs/Overview.md/##final-exam)             |Asynchronous on Canvas                                       |15 Dec    |16 Dec  |
 
