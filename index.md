@@ -35,20 +35,19 @@ This course will introduce you to key concepts and tools used to collect, map, a
 ---
 
 
-# Your Instructor: Dr. June Skeeter
+# Your Instructor:
 
+| Name | Dr. June Skeeter |
 | Pronouns | They/Them/Theirs |
 | Email | june.skeeter@ubc.ca |
 | Office | Room 144, Geography Bldg. |
 | Office Hours| Tuesdays/Thursdays<br>**After** lecture 14:00-15:00 <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment, at least 24hrs notice required* |
 
+My name is June.  I am a non-binary geographer, researcher, and educator who has been living as an uninvited guest on unceded Coast Salish Territory since 2015.  I have been teaching GEOS 270 since 2020.  If you'd like to know what previous 270 students have thougth of my course, you can find my [Past teaching evaluations here](https://github.com/GEOS270/Syllabus/tree/main/docs/Evaluations).
+
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
-My name is June.  I am a non-binary geographer, researcher, and educator who has been living as an uninvited guest on unceded Coast Salish Territory since 2015.  I have been teaching GEOS 270 since 2020.  If you'd like to know what previous 270 students have thougth of my course, you can find my [past teaching evaluations here](https://github.com/GEOS270/Syllabus/tree/main/docs/Evaluations).
-
-I am passionate about teaching Geographic Information Science and using Geographic Information Systems as a tool to address social and ecological justice issues.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.  When I'm not working, I like to spend my free time hiking, gardening, foraging, and going to drag shows.  
-
-I use GIS extensively is my research on climate change in the wetland ecosystems.
+I am passionate about teaching Geographic Information Science and using Geographic Information Systems as a tool to address social and ecological justice issues.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.  I use GIS extensively is my research on climate change in the wetland ecosystems.
 
 * For my PhD, I studied greenhouse gas exchange remote [Arctic Ecosystems](https://cdnsciencepub.com/doi/full/10.1139/as-2021-0034).  
 * Now I am working for the [UBC Micrometeorology Lab](https://blogs.ubc.ca/saraknox/).  We study carbon balances in wetland ecosystems in the Metro Vancouver area.
@@ -74,8 +73,7 @@ I use GIS extensively is my research on climate change in the wetland ecosystems
 
 # Your TAs
 
-## Landen Matechuk 
-
+| Name | Landen Matechuk |
 | Pronouns | He/Him/His |
 | Email | landenm@student.ubc.ca |
 | Office | Room 246, Geography Bldg. |
@@ -85,8 +83,7 @@ My name is Landen, and I am an MSc student in geography, studying channel respon
 <img src="docs/images/Landen.jpg" alt="hi" class="inline" width="300"/>
 
 
-## Sierra Collins 
-
+| Name | Sierra Collins |
 | Pronouns | She/Her/Hers |
 | Email | sierraco@mail.ubc.ca |
 | Office | Room 114, Geography Bldg. |
