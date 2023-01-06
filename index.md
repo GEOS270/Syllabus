@@ -41,7 +41,7 @@ This course will introduce you to key concepts and tools used to collect, map, a
 | Pronouns | They/Them/Theirs |
 | Email | june.skeeter@ubc.ca |
 | Office | Room 144, Geography Bldg. |
-| Office Hours| Tuesdays/Thursdays<br>**After** lecture 14:00-15:00 <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment, at least 24hrs notice required* |
+| Office Hours| Mondays/Wednesdays<br>TBD <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment, at least 24hrs notice required* |
 
 My name is June.  I am a non-binary geographer, researcher, and educator who has been living as an uninvited guest on unceded Coast Salish Territory since 2015.  I have been teaching GEOS 270 since 2020.  If you'd like to know what previous 270 students have thougth of my course, you can find my [Past teaching evaluations here](https://github.com/GEOS270/Syllabus/tree/main/docs/Evaluations).
 
@@ -49,8 +49,7 @@ My name is June.  I am a non-binary geographer, researcher, and educator who has
 
 I am passionate about teaching Geographic Information Science and using Geographic Information Systems as a tool to address social and ecological justice issues.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.  I use GIS extensively is my research on climate change in the wetland ecosystems.
 
-* For my PhD, I studied greenhouse gas exchange remote [Arctic Ecosystems](https://cdnsciencepub.com/doi/full/10.1139/as-2021-0034).  
-* Now I am working for the [UBC Micrometeorology Lab](https://blogs.ubc.ca/saraknox/).  We study carbon balances in wetland ecosystems in the Metro Vancouver area.
+* I also work as a Postdoc for the [UBC Micrometeorology Lab](https://blogs.ubc.ca/saraknox/).  We study carbon balances in wetland ecosystems in the Metro Vancouver area.
   * If anyone is interested in micrometeorology and/or climate science, don't hesitate to reach out!
 
 
@@ -73,21 +72,21 @@ I am passionate about teaching Geographic Information Science and using Geograph
 
 # Your TAs
 
-| Name | Landen Matechuk |
-| Pronouns | He/Him/His |
-| Email | landenm@student.ubc.ca |
-| Office | Room 246, Geography Bldg. |
-
-My name is Landen, and I am an MSc student in geography, studying channel response to the loss of riparian vegetation and beaver habitats in British Columbia. My research background has focused on applying GIS, and remote sensing technologies to various topics focused on watershed productivity and health. When I am not studying or working, I am most likely hiking, snowboarding, surfing, or reading.
-
-<img src="docs/images/Landen.jpg" alt="hi" class="inline" width="300"/>
-
-
-| Name | Sierra Collins |
+| Name | Zijie Chai |
 | Pronouns | She/Her/Hers |
-| Email | sierraco@mail.ubc.ca |
+| Email | zijie01@mail.ubc.ca |
+| Office | Room 225, Geography Bldg. |
+
+My name is Zijie and I am a MSc student in Geography, studying the Contributions of glaciers to streamflow and how they have varied in response to climatic variability and glacier changes in Columbia River Basin. My background has mostly been focused on hydrology, a little on Hydrogeology and Biohydrology. In my free time I enjoy hiking, SUP, travelling, trying new food and watching movies!
+
+<img src="docs/images/Zijie.jpg" alt="hi" class="inline" width="300"/>
+
+
+| Name | Nastaran Pournematollahi |
+| Pronouns | She/Her/Hers |
+| Email | nasipour@student.ubc.ca |
 | Office | Room 114, Geography Bldg. |
 
-My name is Sierra and I am a MSc student in Geography, studying the effects of snowmelt on stream temperatures in the southern Coast Mountains of BC. My background has mostly been focused on hydrology in the Pacific Northwest, but I also have spent some time working in biology and conservation. In my free time I enjoy hiking, kayaking, travelling, trying new food and reading!
+My name is Nastaran Nematolahi, and I am a second-year Ph.D. student in Geography. I am a physical geographer with a strong interest in river morphodynamics and environmental hydraulics. My research focuses on alluvial fans and the processes that operate on them. I also have a Master's degree in Hydraulic Structures, which has given me a diverse background in the field. In my free time, I enjoy dancing and ice skating
 
-<img src="docs/images/Sierra.JPG" alt="hi" class="inline" width="300"/>
+<img src="docs/images/Nastaran.jpg" alt="hi" class="inline" width="300"/>

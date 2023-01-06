@@ -31,17 +31,17 @@ The course consists of six modules, a final project, and a final exam.  They are
 
 * **Note**: course content is already available for those who would like to look ahead, **but** specific content may change up to date each module is introduced in lecture.
 
-|                         Module                         |                                Topic                        |Start Date|Due Date|
-|--------------------------------------------------------|-------------------------------------------------------------|----------|--------|
-|[Module 1](https://geos270.github.io/Module1/)          |History of GIS & Intro to ArcGIS Pro                         |08 Sep    |23 Sep  |
-|[Module 2](https://geos270.github.io/Module2/)          |Coordinate Reference Systems                                 |15 Sep    |07 Oct  |
-|[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization        |27 Sep    |21 Oct  |
-|[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                          |11 Oct    |04 Nov  |
-|[Module 5](https://geos270.github.io/Module5/)          |GIS Workflows & Spatial Analysis Methods                     |25 Oct    |18 Nov  |
-|[Module 6](https://geos270.github.io/Module6/)          |SpatiSampling, Uncertainty, & Ethics                         |15 Nov    |02 Dec  |
-|[Module 7](https://geos270.github.io/Module7/)               |GIS Applications, GIS Programming & Exam Review              |01 Dec    |N/A     |
-|[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                            |03 Nov    |25 Nov & 09 Dec  |
-|[Final Exam](docs/Overview.md/#final-exam)             |Asynchronous on Canvas                                       |15 Dec    |16 Dec  |
+|                         Module                         |                                Topic                        |Due Date|
+|--------------------------------------------------------|-------------------------------------------------------------|--------|
+|[Module 1](https://geos270.github.io/Module1/)          |History of GIS & Intro to ArcGIS Pro                         |20 Jan  |
+|[Module 2](https://geos270.github.io/Module2/)          |Coordinate Reference Systems                                 |03 Feb  |
+|[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization        |17 Feb  |
+|[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                          |10 Mar  |
+|[Module 5](https://geos270.github.io/Module5/)          |GIS Workflows & Spatial Analysis Methods                     |24 Mar  |
+|[Module 6](https://geos270.github.io/Module6/)          |SpatiSampling, Uncertainty, & Ethics                         |07 Apr  |
+|[Module 7](https://geos270.github.io/Module7/)          |GIS Applications, GIS Programming & Exam Review              |N/A     |
+|[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                            |31 Mar & 14 Apr  |
+|[Final Exam](docs/Overview.md/#final-exam)              |Asynchronous on Canvas                                       |24/25 Apr  |
 
 
 ---
@@ -81,10 +81,10 @@ Labs will build on the lecture and will primarily focus on GIS applications, giv
 
 |Lab |   Time slot            |  TA  |
 |----|------------------------|------|
-|L1A |Tuesday 16:00-18:00     |[Landen](../#landen-matechuk)|
-|L1B |Tuesday 10:00-12:00     |[Landen](../#landen-matechuk)|
-|L1C |Wednesday 12:00-14:00   |[Sierra](../#sierra-collins)|
-|L1D |Friday 14:00-16:00      |[Sierra](../#sierra-collins)|
+|L1A |Monday 14:00-16:00      |TBD   |
+|L1B |Monday 16:00-18:00      |TBD   |
+|L1C |Tuesday 14:00-16:00     |TBD   |
+|L1D |Thursday 16:00-18:00    |TBD   |
 
 ### Module Quizzes
 {: .no_toc}
@@ -105,7 +105,7 @@ GIS is a collaborative discipline so your final project will be a group assignme
 The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a flowchart question illustrating how to complete a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  The exam will be cumulative, drawing from both lecture and lab material.
 
 * 48 Hour Window to Complete
-  * 0:00 December 15th to 23:59 December 16th
+  * 0:00 April 24th to 23:59 April 25th
   * **One Attempt** - five hours
     * Not intended to take five hours, I just don't want you to feel rushed.
     * If you have a letter from access and diversity and need more than the allotted time, contact me **before** the exam.
@@ -114,7 +114,7 @@ The final exam will be completed asynchronously over Canvas. It will consist of 
 
 # Evaluation
 
-Module quizzes will make up the largest portion of your grade, followed by the final exam and final project which  will be weighted equally.
+Module quizzes will make up the largest portion of your grade, followed by the final exam and final project which will be weighted equally.
 * At the end of term, your lowest scoring module will be dropped, so everyone get a "free pass".
 * TopHat questions (Lecture Participation) are a minor portion of you final grade.
   * They will be important for folks on a letter grade boundary.

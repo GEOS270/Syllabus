@@ -31,7 +31,8 @@ Module quizzes will be marked by your TA using a standard rubric.  Short comment
   * After the seven day grace period, the quiz submission window will **close**, no exceptions.
     * **Do not** request an extension from your TA
     * If extenuating circumstances necessitate an accommodation, contact June
-* The seven day grace period **does not** apply to the final exam.
+* The seven day grace period **does not** apply to the final exam or final projects.
+  * Late projects will be loose 25 pts per day
   * The exam will only be available during the exam window.
 
 #  Accommodations
