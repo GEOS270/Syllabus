@@ -61,7 +61,7 @@ Lectures will cover the module topics in depth and serve as your chance to ask q
 
 Lecture participation will be gauged using a platform called [TopHat](https://tophat.com/students/).
 
-* The course **Join Code** is: **605961**
+* The course **Join Code** is: **404678**
 * Three to four questions will be embedded in each lecture presentation.
   * Questions can be answered via mobile device or laptop
     * Questions can **only** be answered during the lecture session
