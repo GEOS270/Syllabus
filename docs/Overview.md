@@ -53,7 +53,7 @@ The course consists of six modules, a final project, and a final exam.  They are
 Lectures will cover the module topics in depth and serve as your chance to ask questions and engage in discussion about the material.
 * At the start of each module, I will also give a brief overview of the module's learning outcomes and it's corresponding lab assignment.
   * The remaining portion of each module will consist of lecture material & time for questions
-* Lectures are held each Tuesday/Thursday 12:30-14:00 in room 200 of the Geography building.
+* Lectures are held each Mon/Wed/Fri* 11:00-12:00 in room 200 of the Geography building.
   * Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09) and recordings will be made available on canvas the following day.
 
 ### Participation
