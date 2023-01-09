@@ -66,6 +66,8 @@ Though you may work together with your classmates on the assignments and help ea
 # Strategies for Success
 
 **Be proactive!** 
-* Timely communication is important!  If you have an issue, please bring it to my attention.
+* Keep track of deadlines & note the late submission policies
+  * Timely communication is important!  If you have an issue, please bring it to my attention.
+  * Partial credit is better than no credit.  If you can't finish a lab before the deadline - just submit what you've got done already. 
 * Drop by office hours & ask questions!
 * Don't wait until the last minute to set up ArcGIS Pro, do it now to save yourself a headache down the road.
