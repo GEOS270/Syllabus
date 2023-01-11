@@ -81,10 +81,10 @@ Labs will build on the lecture and will primarily focus on GIS applications, giv
 
 |Lab |   Time slot            |  TA     |
 |----|------------------------|---------|
-|L1A |Monday 14:00-16:00      |Nastaran |
-|L1B |Monday 16:00-18:00      |Nastaran |
-|L1C |Tuesday 14:00-16:00     |Zijie    |
-|L1D |Thursday 16:00-18:00    |Zijie    |
+|L2A |Monday 14:00-16:00      |Nastaran |
+|L2B |Monday 16:00-18:00      |Nastaran |
+|L2C |Tuesday 14:00-16:00     |Zijie    |
+|L2D |Thursday 16:00-18:00    |Zijie    |
 
 ### Module Quizzes
 {: .no_toc}
