@@ -79,12 +79,12 @@ Labs will build on the lecture and will primarily focus on GIS applications, giv
   * Lab attendance is not mandatory, but it is strongly encouraged.
   * You **must** be registered for one of the following lab sections, which will meet once per week throughout the term in the Geography computer lab (room 115).
 
-|Lab |   Time slot            |  TA  |
-|----|------------------------|------|
-|L1A |Monday 14:00-16:00      |TBD   |
-|L1B |Monday 16:00-18:00      |TBD   |
-|L1C |Tuesday 14:00-16:00     |TBD   |
-|L1D |Thursday 16:00-18:00    |TBD   |
+|Lab |   Time slot            |  TA     |
+|----|------------------------|---------|
+|L1A |Monday 14:00-16:00      |Nastaran |
+|L1B |Monday 16:00-18:00      |Nastaran |
+|L1C |Tuesday 14:00-16:00     |Zijie    |
+|L1D |Thursday 16:00-18:00    |Zijie    |
 
 ### Module Quizzes
 {: .no_toc}
