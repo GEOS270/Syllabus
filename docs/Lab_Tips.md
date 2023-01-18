@@ -43,9 +43,9 @@ This video gives an overview of some important steps when using the lab computer
 ---
 
 
-# Initalize your H:/ Dirve
+# Initialize your H:/ Drive
 
-**When you first logon to geography lab computers with your account** find C:\Apps\RunOnce.bat in the file manager.  Double click on it to run it.  This will initalize your account and set up access to your **H:/** drive.
+**When you first logon to geography lab computers with your account** find C:\Apps\RunOnce.bat in the file manager.  Double click on it to run it.  This will initialize your account and set up access to your **H:/** drive.
 
 <img src="images/RunOnce_File_Location.PNG" alt="RunOnce" class="inline" width="500"/>
 
