@@ -33,12 +33,12 @@ The course consists of six modules, a final project, and a final exam.  They are
 
 |                         Module                         |                                Topic                        |Due Date|
 |--------------------------------------------------------|-------------------------------------------------------------|--------|
-|[Module 1](https://geos270.github.io/Module1/)          |History of GIS & Intro to ArcGIS Pro                         |20 Jan  |
-|[Module 2](https://geos270.github.io/Module2/)          |Coordinate Reference Systems                                 |03 Feb  |
-|[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization        |17 Feb  |
-|[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                          |10 Mar  |
-|[Module 5](https://geos270.github.io/Module5/)          |GIS Workflows & Spatial Analysis Methods                     |24 Mar  |
-|[Module 6](https://geos270.github.io/Module6/)          |SpatiSampling, Uncertainty, & Ethics                         |07 Apr  |
+|[Module 1](https://geos270.github.io/Module1/)          |History of GIS & Intro to ArcGIS Pro                         |22 Jan  |
+|[Module 2](https://geos270.github.io/Module2/)          |Coordinate Reference Systems                                 |05 Feb  |
+|[Module 3](https://geos270.github.io/Module3/)          |Data Types, Data Classification, & Data Visualization        |19 Feb  |
+|[Module 4](https://geos270.github.io/Module4/)          |Spatial Data Models                                          |12 Mar  |
+|[Module 5](https://geos270.github.io/Module5/)          |GIS Workflows & Spatial Analysis Methods                     |26 Mar  |
+|[Module 6](https://geos270.github.io/Module6/)          |SpatiSampling, Uncertainty, & Ethics                         |09 Apr  |
 |[Module 7](https://geos270.github.io/Module7/)          |GIS Applications, GIS Programming & Exam Review              |N/A     |
 |[Final Project](https://geos270.github.io/FinalProject/)|Proposal & Report                                            |31 Mar & 14 Apr  |
 |[Final Exam](docs/Overview.md/#final-exam)              |Asynchronous on Canvas                                       |24/25 Apr  |
@@ -78,6 +78,7 @@ Labs will build on the lecture and will primarily focus on GIS applications, giv
 * Labs will be formatted as open help sessions.  They are your chance to get one-on-one help from your TA and you may also use them to work collaboratively with your classmates (**all answers/maps submitted must be your own work**).
   * Lab attendance is not mandatory, but it is strongly encouraged.
   * You **must** be registered for one of the following lab sections, which will meet once per week throughout the term in the Geography computer lab (room 115).
+* There is also a lab discussion board on canvas which you can use to chat with classmates about the lab.
 
 |Lab |   Time slot            |  TA     |
 |----|------------------------|---------|
