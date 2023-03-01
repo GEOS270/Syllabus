@@ -43,7 +43,7 @@ This course will introduce you to key concepts and tools used to collect, map, a
 | Office | Room 144, Geography Bldg. |
 | Office Hours| Wednesdays<br>12:30-14:00<br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment, at least 24hrs notice required* |
 
-My name is June.  I am a non-binary geographer, researcher, and educator who has been living as an uninvited guest on unceded Coast Salish Territory since 2015.  I have been teaching GEOS 270 since 2020.  If you'd like to know what previous 270 students have thougth of my course, you can find my [Past teaching evaluations here](https://github.com/GEOS270/Syllabus/tree/main/docs/Evaluations).
+My name is June.  I am a non-binary geographer, researcher, and educator who has been living as an uninvited guest on unceded Coast Salish Territory since 2015.  I have been teaching GEOS 270 since 2020.  If you'd like to know what previous 270 students have thought of my course, you can find my [Past teaching evaluations here](https://github.com/GEOS270/Syllabus/tree/main/docs/Evaluations).
 
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
