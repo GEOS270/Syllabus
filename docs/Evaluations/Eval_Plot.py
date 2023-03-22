@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-Evals = pd.read_csv("docs/Evaluations/Considering_everything_how_would_you_rate_this_course.csv")
+Evals = pd.read_csv("Evaluations/Considering_everything_how_would_you_rate_this_course.csv")
 
 Summary = Evals[['Very Poor','Poor','Neutral','Good','Very Good']].sum()
 Response_Rate = Summary.sum()/Evals['N'].sum()
